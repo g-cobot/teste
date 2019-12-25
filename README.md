@@ -10,6 +10,7 @@ echo 'Hello World'
 echo "$VARIABLE"
 ```
 ## Bibliografia
+https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
 https://www.youtube.com/watch?v=9xUQ6jPqeaw
 
